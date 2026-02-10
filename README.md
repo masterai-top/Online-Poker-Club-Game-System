@@ -1,5 +1,5 @@
 Texas Hold'em Poker
-德州扑克朋友局源码，私人局，俱乐部代码，美术、代码都有的。比hhpoker、wpkr同类产品、质量更好。产品上线多年，服务器稳定，德州大厅有七八种德州玩法，短牌，大菠萝，MTT，SNG，AOF，奥马哈，以及支持联盟模式。Telegram联系： @xuzongbin001或E-mail：masterai918@gmail.com
+德州扑克朋友局源码，私人局，web德州，h5德州，俱乐部代码，美术、代码都有的。比hhpoker、wpkr同类产品、质量更好。产品上线多年，服务器稳定，德州大厅有七八种德州玩法，短牌，大菠萝，MTT，SNG，AOF，奥马哈，以及支持联盟模式。Telegram联系： @xuzongbin001或E-mail：masterai918@gmail.com
 
 Texas Hold'em Poker friend game source code, private game, club code, art, code are all available. Better quality than similar products such as hhpoker and wpkr. The product has been online for many years, the server is stable, and the Texas Hold'em lobby has seven or eight Texas Hold'em games, including short deck, big pineapple, MTT, SNG, AOF, Omaha, and supports alliance mode. Telegram contact: @xuzongbin001 or E-mail: masterai918@gmail.com
 
