@@ -3,6 +3,9 @@
 > **Friend Game + Private Game + Alliance + USDT Payment + Multi-Language**
 > **Game bài bạn bè + Bàn riêng + Liên minh + Thanh toán USDT + Đa ngôn ngữ**
 > **朋友局 + 私人局 + 联盟 + USDT支付 + 多国语言**
+德州扑克俱乐部完整源码 | 朋友局+私人局+联盟 | USDT支付 | 多国语言 | 8+玩法 | C++服务端
+Texas Hold'em Poker Club Source Code | Friend Game + Private Game + Alliance | USDT Payment | Multi-Language | 8+ Game Modes | C++ Backend
+Mã nguồn Club Poker Texas Hold'em | Game bạn bè + Bàn riêng + Liên minh | Thanh toán USDT | Đa ngôn ngữ | 8+ thể loại | Backend C++
 
 [![Contact](https://img.shields.io/badge/Contact-Telegram%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web%20%7C%20H5-green)]()
