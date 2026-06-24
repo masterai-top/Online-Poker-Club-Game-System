@@ -1,0 +1,18 @@
+#include "GMProto.tars"
+#include "/home/tarsproto/XGame/Comm/JFGame.tars"
+
+/**
+**房间动态服务接口
+* 
+**/
+module gm
+{
+    interface GMServant
+    {        
+        //http请求处理接口
+		int doRequest(vector<byte> reqBuf, map<string, string> extraInfo, out vector<byte> rspBuf);
+
+        //配牌器
+		int getCards(out GetCardsResp resp);
+    };
+}; 
