@@ -20,7 +20,7 @@ Mã nguồn Club Poker Texas Hold'em | Game bạn bè + Bàn riêng + Liên minh
 | :--- | :--- | :--- | :--- |
 | 🎮 **Game Modes** | Texas / Short Deck / Omaha / Big Pineapple / MTT / SNG / AOF | Xì tố / Bài ngắn / Omaha / Dứa lớn / MTT / SNG / AOF | 德州/短牌/奥马哈/大菠萝/MTT/SNG/AOF |
 | 👥 **Social System** | Friend Game + Private Game + Club + Alliance | Game bạn bè + Bàn riêng + Club + Liên minh | 朋友局+私人局+俱乐部+联盟 |
-| 💰 **Payment** | USDT Deposit & Withdraw | Nạp/rút USDT | USDT出入金 |
+| 💰 **Payment** | USDT Deposit & Withdraw | Nạp/rút USDT | USDT |
 | 🌍 **Language** | Multi-Language Support | Hỗ trợ đa ngôn ngữ | 多国语言支持 |
 | 🎙️ **Voice Chat** | In-game Voice Chat | Trò chuyện thoại trong game | 牌桌语音聊天 |
 | 🏆 **Quality** | Better than hhpoker / wpkr | Chất lượng tốt hơn hhpoker / wpkr | 品质超hhpoker/wpk |
