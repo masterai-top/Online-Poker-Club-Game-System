@@ -1,18 +1,26 @@
 [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
 
-# 在线德州扑克俱乐部与私人房|德州源码|德州源碼|德州朋友局
+# 線上德州撲克俱樂部與私人房系統|德州源码|德州源碼|德州朋友局
 
 > **Friend Game + Private Game + Alliance + USDT Payment + Multi-Language**
+
 > **Game bài bạn bè + Bàn riêng + Liên minh + Thanh toán USDT + Đa ngôn ngữ**
-> **朋友局 + 私人局 + 联盟 + USDT支付 + 多国语言**
-德州扑克俱乐部完整源码 | 朋友局+私人局+联盟 | USDT支付 | 多国语言 | 8+玩法 | C++服务端
+
+> **朋友局 + 私人局 + 聯盟 + USDT支付 + 多國語言**
+
+德州撲克俱樂部完整原始碼 | 朋友局+私人局+聯盟 | USDT支付 | 多國語言 | 8+玩法 | C++服務端
+
 Texas Hold'em Poker Club Source Code | Friend Game + Private Game + Alliance | USDT Payment | Multi-Language | 8+ Game Modes | C++ Backend
-Mã nguồn Club Poker Texas Hold'em | Game bạn bè + Bàn riêng + Liên minh | Thanh toán USDT | Đa ngôn ngữ | 8+ thể loại | Backend C++
+
+Mã nguồn Club Poker Texas Hold'em | Game bạn bè + Bàn riêng + Liên minh | Thanh toán USDT | Đa ngôn ngữ | 8+ thể loại | Backend C++i | Backend C++i | Backend C++
 
 
 [![Contact](https://img.shields.io/badge/Contact-Telegram%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
+
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web%20%7C%20H5-green)]()
+
 [![Payment](https://img.shields.io/badge/Payment-USDT-orange)]()
+
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-red)]()
 
 
@@ -23,42 +31,63 @@ Mã nguồn Club Poker Texas Hold'em | Game bạn bè + Bàn riêng + Liên minh
 
 
 | Feature | English | Tiếng Việt | 中文 |
+
 | :--- | :--- | :--- | :--- |
-| 🎮 **Game Modes** | Texas / Short Deck / Omaha / Big Pineapple / MTT / SNG / AOF | Xì tố / Bài ngắn / Omaha / Dứa lớn / MTT / SNG / AOF | 德州/短牌/奥马哈/大菠萝/MTT/SNG/AOF |
-| 👥 **Social System** | Friend Game + Private Game + Club + Alliance | Game bạn bè + Bàn riêng + Club + Liên minh | 朋友局+私人局+俱乐部+联盟 |
+
+| 🎮 **Game Modes** | Texas / Short Deck / Omaha / Big Pineapple / MTT / SNG / AOF | Xì tố / Bài ngắn / Omaha / Dứa lớn / MTT / SNG / AOF |A
+
+| 👥 **Social System** | Friend Game + Private Game + Club + Alliance | Game bạn bè + Bàn riêng + Club + Liên minh | 朋友局+私人局+俱樂部+聯盟 |
+
 | 💰 **Payment** | USDT Deposit & Withdraw | Nạp/rút USDT | USDT |
-| 🌍 **Language** | Multi-Language Support | Hỗ trợ đa ngôn ngữ | 多国语言支持 |
-| 🎙️ **Voice Chat** | In-game Voice Chat | Trò chuyện thoại trong game | 牌桌语音聊天 |
-| 🏆 **Quality** | Better than hhpoker / wpkr | Chất lượng tốt hơn hhpoker / wpkr | 品质超hhpoker/wpk |
+
+| 🌍 **Language** | Multi-Language Support | Hỗ trợ đa ngôn ngữ | 多重語言支援 |
+
+| 🎙️ **Voice Chat** | In-game Voice Chat | Trò chuyện thoại trong game | 牌桌語音聊天 |
+
+| 🏆 **Quality** | Better than hhpoker / wpkr | Chất lượng tốt hơn hhpoker / wpkr | 品質超hhpoker/wpk |
 
 
-## 🎯 Features | Tính năng | 功能清单
+## 🎯 Features | Tính năng | 功能清單
 
 
 | English | Tiếng Việt | 中文 |
+
 | :--- | :--- | :--- |
-| Club System | Hệ thống Club | 俱乐部系统 |
-| Alliance Mode | Chế độ Liên minh | 联盟模式 |
+
+| Club System | Hệ thống Club | 俱樂部系統 |
+
+| Alliance Mode | Chế độ Liên minh | 聯盟模式 |
+
 | Friend Game | Game bạn bè | 朋友局 |
+
 | Private Game | Bàn riêng | 私人局 |
-| USDT Payment | Thanh toán USDT | USDT支付 |
-| Multi-Language | Đa ngôn ngữ | 多国语言 |
-| Voice Chat | Trò chuyện thoại | 语音聊天 |
-| Tournament (MTT/SNG) | Giải đấu (MTT/SNG) | 锦标赛 |
-| Admin Panel | Bảng điều khiển | 代理后台 |
+
+| USDT 付款 | Thanh toán USDT | USDT付款 |
+
+| Multi-Language | Đa ngôn ngữ | 多國語言 |
+
+| Voice Chat | Trò chuyện thoại | 語音聊天 |
+
+| Tournament (MTT/SNG) | Giải đấu (MTT/SNG) | 錦標賽 |
+
+| Admin Panel | Bảng điều khiển | 代理後台 |
 
 
-## 🚀 Tech Stack | Công nghệ | 技术架构
+## 🚀 Tech Stack | Công nghệ | 技術架構
 
 
 | Layer | Technology |
+
 | :--- | :--- |
+
 | **Backend** | C++ (High Performance) |
+
 | **Client** | Unity3D / H5 (Cross-Platform) |
+
 | **Database** | MySQL + Redis |
 
 
-## 📸 Screenshots | Hình ảnh | 界面预览
+## 📸 Screenshots | Hình ảnh | 介面預覽
 
 
 
@@ -75,27 +104,29 @@ Mã nguồn Club Poker Texas Hold'em | Game bạn bè + Bàn riêng + Liên minh
 ![微信图片_20241029191835](https://github.com/user-attachments/assets/edad09bd-739d-44a9-bfe4-4d9ae2d5ded2)
 ![微信图片_20241029191822](https://github.com/user-attachments/assets/048add27-5b3d-4f1a-832c-87381bcd2089)
 ![微信图片_20241029191811 - 副本](https://github.com/user-attachments/assets/f25c966b-331d-48a2-b902-fc9cbe06ac5f)
+> 📷 Screenshots available upon request | Liên hệ để xem ảnh | 聯絡我以取得截圖
 
 
-> 📷 Screenshots available upon request | Liên hệ để xem ảnh | 联系我获取截图
+🎥 **Demo Video** | **Video giới thiệu** | **示範影片**: [Contact me](https://t.me/xuzongbin001)
 
 
-🎥 **Demo Video** | **Video giới thiệu** | **演示视频**: [Contact me](https://t.me/xuzongbin001)
+## 💰 Get Source Code | Mua mã nguồn | 取得原始碼
 
 
-## 💰 Get Source Code | Mua mã nguồn | 获取源码
+✅ Complete C++ Server Source Code | Mã nguồn C++ hoàn chỉnh | 完整C++服務端源碼
+
+✅ Complete Client Source Code | Mã nguồn Client hoàn chỉnh | 完整客戶端源碼
+
+✅ Database Scripts | Script cơ sở dữ liệu | 資料庫腳本
+
+✅ Art Assets | Tài nguyên đồ họa | 美術資源
+
+✅ Deployment Guide | Hướng dẫn triển khai | 部署文檔
 
 
-✅ Complete C++ Server Source Code | Mã nguồn C++ hoàn chỉnh | 完整C++服务端源码  
-✅ Complete Client Source Code | Mã nguồn Client hoàn chỉnh | 完整客户端源码  
-✅ Database Scripts | Script cơ sở dữ liệu | 数据库脚本  
-✅ Art Assets | Tài nguyên đồ họa | 美术资源  
-✅ Deployment Guide | Hướng dẫn triển khai | 部署文档  
+📱 **Telegram: @xuzongbin001**
 
-
-📱 **Telegram: @xuzongbin001**  
 📧 **Email: masterai918@gmail.com**
-
 
 
 
